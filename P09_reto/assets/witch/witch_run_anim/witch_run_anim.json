@@ -1,0 +1,44 @@
+{
+    "anims": [
+        {
+            "key": "witch_run",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "witch_run",
+                    "frame": "witch_run_1_0"
+                },
+                {
+                    "key": "witch_run",
+                    "frame": "witch_run_1_1"
+                },
+                {
+                    "key": "witch_run",
+                    "frame": "witch_run_1_2"
+                },
+                {
+                    "key": "witch_run",
+                    "frame": "witch_run_1_3"
+                },
+                {
+                    "key": "witch_run",
+                    "frame": "witch_run_1_4"
+                },
+                {
+                    "key": "witch_run",
+                    "frame": "witch_run_1_5"
+                },
+                {
+                    "key": "witch_run",
+                    "frame": "witch_run_1_6"
+                },
+                {
+                    "key": "witch_run",
+                    "frame": "witch_run_1_7"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "anims": [
+        {
+            "key": "potions",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "potions",
+                    "frame": "fila-3-columna-1_(1)"
+                },
+                {
+                    "key": "potions",
+                    "frame": "fila-3-columna-2"
+                },
+                {
+                    "key": "potions",
+                    "frame": "fila-3-columna-3"
+                },
+                {
+                    "key": "potions",
+                    "frame": "fila-3-columna-4"
+                }
+            ]
+        }
+    ]
+}

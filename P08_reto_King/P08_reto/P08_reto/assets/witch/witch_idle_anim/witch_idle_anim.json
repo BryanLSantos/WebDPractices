@@ -1,0 +1,36 @@
+{
+    "anims": [
+        {
+            "key": "witch_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "witch_idle",
+                    "frame": "witch_idle_1_0"
+                },
+                {
+                    "key": "witch_idle",
+                    "frame": "witch_idle_1_1"
+                },
+                {
+                    "key": "witch_idle",
+                    "frame": "witch_idle_1_2"
+                },
+                {
+                    "key": "witch_idle",
+                    "frame": "witch_idle_1_3"
+                },
+                {
+                    "key": "witch_idle",
+                    "frame": "witch_idle_1_4"
+                },
+                {
+                    "key": "witch_idle",
+                    "frame": "witch_idle_1_5"
+                }
+            ]
+        }
+    ]
+}

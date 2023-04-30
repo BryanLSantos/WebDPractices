@@ -1,0 +1,48 @@
+{
+    "anims": [
+        {
+            "key": "hearts",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "hearts",
+                    "frame": "heart1"
+                },
+                {
+                    "key": "hearts",
+                    "frame": "heart2"
+                },
+                {
+                    "key": "hearts",
+                    "frame": "heart3"
+                },
+                {
+                    "key": "hearts",
+                    "frame": "heart4"
+                },
+                {
+                    "key": "hearts",
+                    "frame": "heart5"
+                },
+                {
+                    "key": "hearts",
+                    "frame": "heart6"
+                },
+                {
+                    "key": "hearts",
+                    "frame": "heart7"
+                },
+                {
+                    "key": "hearts",
+                    "frame": "heart8"
+                },
+                {
+                    "key": "hearts",
+                    "frame": "heart9"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "frames": [
+        {
+            "filename": "heart1",
+            "frame": {
+                "w": 94,
+                "h": 101,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heart2",
+            "frame": {
+                "w": 77,
+                "h": 89,
+                "x": 94,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heart3",
+            "frame": {
+                "w": 61,
+                "h": 83,
+                "x": 171,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heart4",
+            "frame": {
+                "w": 52,
+                "h": 82,
+                "x": 232,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heart5",
+            "frame": {
+                "w": 49,
+                "h": 86,
+                "x": 284,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heart6",
+            "frame": {
+                "w": 55,
+                "h": 82,
+                "x": 333,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heart7",
+            "frame": {
+                "w": 70,
+                "h": 83,
+                "x": 388,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heart8",
+            "frame": {
+                "w": 89,
+                "h": 82,
+                "x": 458,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heart9",
+            "frame": {
+                "w": 88,
+                "h": 83,
+                "x": 547,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "witch_run_1_0",
+            "frame": {
+                "w": 31,
+                "h": 48,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "witch_run_1_1",
+            "frame": {
+                "w": 31,
+                "h": 48,
+                "x": 31,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "witch_run_1_2",
+            "frame": {
+                "w": 31,
+                "h": 48,
+                "x": 62,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "witch_run_1_3",
+            "frame": {
+                "w": 31,
+                "h": 48,
+                "x": 93,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "witch_run_1_4",
+            "frame": {
+                "w": 31,
+                "h": 48,
+                "x": 124,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "witch_run_1_5",
+            "frame": {
+                "w": 31,
+                "h": 48,
+                "x": 155,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "witch_run_1_6",
+            "frame": {
+                "w": 31,
+                "h": 48,
+                "x": 186,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "witch_run_1_7",
+            "frame": {
+                "w": 31,
+                "h": 48,
+                "x": 217,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

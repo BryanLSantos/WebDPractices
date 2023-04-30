@@ -1,0 +1,28 @@
+{
+    "anims": [
+        {
+            "key": "pinchos",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "pinchos",
+                    "frame": "pinchos_0"
+                },
+                {
+                    "key": "pinchos",
+                    "frame": "pinchos_1"
+                },
+                {
+                    "key": "pinchos",
+                    "frame": "pinchos_2"
+                },
+                {
+                    "key": "pinchos",
+                    "frame": "pinchos_3"
+                }
+            ]
+        }
+    ]
+}

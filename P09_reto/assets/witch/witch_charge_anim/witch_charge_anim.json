@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "witch_charge",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "witch_charge",
+                    "frame": "witch_charge_1_0"
+                },
+                {
+                    "key": "witch_charge",
+                    "frame": "witch_charge_1_1"
+                },
+                {
+                    "key": "witch_charge",
+                    "frame": "witch_charge_1_2"
+                },
+                {
+                    "key": "witch_charge",
+                    "frame": "witch_charge_1_3"
+                },
+                {
+                    "key": "witch_charge",
+                    "frame": "witch_charge_1_4"
+                }
+            ]
+        }
+    ]
+}
